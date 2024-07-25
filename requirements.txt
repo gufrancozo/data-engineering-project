@@ -1,0 +1,4 @@
+selenium
+beautifulsoup4
+webdriver_manager
+psycopg2-binary
